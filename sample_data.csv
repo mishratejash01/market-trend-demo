@@ -1,31 +1,21 @@
-date,sales
-2023-01-01,120
-2023-01-02,115
-2023-01-03,123
-2023-01-04,130
-2023-01-05,128
-2023-01-06,140
-2023-01-07,150
-2023-01-08,160
-2023-01-09,155
-2023-01-10,165
-2023-01-11,170
-2023-01-12,180
-2023-01-13,175
-2023-01-14,190
-2023-01-15,200
-2023-01-16,210
-2023-01-17,205
-2023-01-18,220
-2023-01-19,230
-2023-01-20,235
-2023-01-21,240
-2023-01-22,250
-2023-01-23,255
-2023-01-24,260
-2023-01-25,270
-2023-01-26,275
-2023-01-27,280
-2023-01-28,290
-2023-01-29,300
-2023-01-30,310
+date,sales,product,category,quantity,price,customer_id,region,channel,review_text
+2024-07-01,120,Green Tea,Beverages,10,12,1001,North,Online,"Loved the aroma, will buy again"
+2024-07-02,150,Energy Bar,Snacks,15,10,1002,South,Offline,"A bit too sweet"
+2024-07-03,90,Green Tea,Beverages,7,12,1003,East,Online,"Good value"
+2024-07-04,200,Cold Drink,Beverages,20,10,1004,West,Online,"Crisp and refreshing"
+2024-07-05,230,Protein Powder,Supplements,5,46,1002,North,Online,"Great for post-workout"
+2024-07-06,180,Green Tea,Beverages,15,12,1005,South,Offline,"Okay taste"
+2024-07-07,130,Energy Bar,Snacks,13,10,1006,East,Online,"Perfect snack"
+2024-07-08,95,Cold Drink,Beverages,9,10,1007,West,Online,"Too fizzy"
+2024-07-09,160,Protein Powder,Supplements,4,40,1008,North,Offline,"Works well"
+2024-07-10,175,Green Tea,Beverages,14,12,1009,South,Online,"Refreshing"
+2024-07-11,190,Energy Bar,Snacks,18,10,1010,East,Offline,"Tasty"
+2024-07-12,210,Cold Drink,Beverages,21,10,1011,West,Online,"Perfect for summer"
+2024-07-13,220,Protein Powder,Supplements,6,42,1012,North,Online,"Good result"
+2024-07-14,140,Green Tea,Beverages,12,12,1013,South,Offline,"Average"
+2024-07-15,155,Energy Bar,Snacks,15,10,1014,East,Online,"Not bad"
+2024-07-16,165,Cold Drink,Beverages,16,10,1015,West,Online,"Nice"
+2024-07-17,205,Protein Powder,Supplements,7,43,1016,North,Offline,"Great"
+2024-07-18,190,Green Tea,Beverages,15,12,1017,South,Online,"Will recommend"
+2024-07-19,175,Energy Bar,Snacks,17,10,1018,East,Offline,"Good"
+2024-07-20,185,Cold Drink,Beverages,18,10,1019,West,Online,"Cool"
